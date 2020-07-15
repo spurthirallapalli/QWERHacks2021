@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 html { 
   height: 100%; 
 }
 
 body {
+  font-family: 'Lato', sans-serif;
   height: 100%;
   width: 100%;
   margin: 0px 0px;
@@ -22,6 +25,7 @@ body {
   width: 100%; 
   height: 20vh;
   border-radius: 8px;
+  font-size: 1.25em;
 }
 
 #about {
@@ -31,6 +35,10 @@ body {
   grid-column: 1;
 }
 
+#about:hover {
+  background-color: red;
+  color:white;
+}
 
 #faq {
   background-color: orange;
@@ -38,10 +46,19 @@ body {
   grid-column: 1;
 }
 
+#faq:hover {
+  background-color: darkorange;
+  color:white;
+}
+
 #sched {
-  background-color: rgb(253, 253, 150);
+  background-color: rgb(255, 225, 0);
   grid-row: 3;
   grid-column: 1;
+}
+
+#sched:hover {
+  background-color: rgb(253, 253, 150)
 }
 
 #sandp {
@@ -50,10 +67,20 @@ body {
   grid-column: 1;grid-column: 1;
 }
 
+#sandp:hover {
+  background-color: blue;
+  color: white;
+}
+
 #resources {
   background-color: lightgreen;
   grid-row: 5;
   grid-column: 1;
+}
+
+#resources:hover {
+  background-color: green;
+  color: white;
 }
 
 .container {
@@ -63,8 +90,14 @@ body {
 }
 
 .main-logo {
+  font-size: 5em;
   width: 100%;
   color: white;
   text-align: center;
+}
+
+.social-media {
+  margin-top: auto;
+  color: white;
 }
 
