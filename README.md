@@ -1,3 +1,4 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # QWERHacks 2021 React
@@ -14,3 +15,4 @@ hello y'all it's ya girly rithika up in here and this is nowhere close to a good
 * click around and see what bugs u find
 
 NOTE: all the code for the website is in the src folder btw
+
