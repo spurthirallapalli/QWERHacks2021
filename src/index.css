@@ -16,8 +16,9 @@ body {
 .content {
   height: 100%;
   display: grid;
-  grid-template-columns: 15% 85%;
-  grid-template-rows: 90% 10%;
+  grid-template-columns:15% 85%;
+  /*grid-template-columns: 15% 85%;
+  grid-template-rows: 90% 10%;*/
 }
 
 .b {
@@ -39,15 +40,18 @@ body {
 .buttons {
   padding-top: 30px;
   padding-left: 10px; 
+  /*display: grid;
+  grid-template-columns: 15% 85%;*/
+  /*grid-template-rows: 90% 10%;*/
 }
 
-.container {
+/*.container {
   display: grid;
   height: 100%;
   grid-template-rows: 20% 80%;
   padding-left: 60px;
-  /*align-items: center;*/
-}
+  align-items: center;
+}*/
 
 .main-logo {
   font-size: 6em;
@@ -65,3 +69,4 @@ body {
 .text-link {
   text-decoration: none;
 }
+

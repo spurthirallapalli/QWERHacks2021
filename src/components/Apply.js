@@ -1,6 +1,6 @@
 import React from "react";
 
-   function Apply(props) {
+   function Apply() {
 
         return (
           <div>

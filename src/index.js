@@ -2,19 +2,22 @@ import React from "react";
 import ReactDOM from "react-dom";
 import './index.css';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Navbar from "./components/Navbar";
 
-import Home from "./Home";
-import Apply from "./Apply";
-import Faq from "./Faq";
-import Schedule from "./Schedule";
-import Sponsors from "./Sponsors";
-import Mentors from "./Mentors";
-import Resources from "./Resources";
+import Home from "./components/Home";
+import Apply from "./components/Apply";
+import Faq from "./components/Faq";
+import Schedule from "./components/Schedule";
+import Sponsors from "./components/Sponsors";
+import Mentors from "./components/Mentors";
+import Resources from "./components/Resources";
 
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
    <BrowserRouter>
+   <div className="content">
+    <Navbar/>
     <Switch>
      <Route exact path="/" component={Home} />
      <Route path="/apply" component={Apply} />
@@ -24,6 +27,8 @@ ReactDOM.render(
      <Route path="/mentors" component={Mentors} />
      <Route path="/resources" component={Resources} />
    </Switch>
-   </BrowserRouter>,
+   </div>
+   </BrowserRouter>
+   ,
    rootElement
 );
