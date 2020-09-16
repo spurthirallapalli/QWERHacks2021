@@ -3,8 +3,8 @@ import React from "react";
    function Apply() {
 
         return (
-          <div>
-            <p>This is the apply! page.</p>
+          <div class="main-logo">
+            APPLY
           </div>
         );
 

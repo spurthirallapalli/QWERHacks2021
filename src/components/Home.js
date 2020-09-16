@@ -7,7 +7,7 @@ import Navbar from "./Navbar";
         return (
             <div>
                 <div class="main-logo">
-                    QWER Hacks
+                    QWER HACKS
                 </div>
                 <div class="home_info">
                     we're back and ready to hack! QWER Hacks at UCLA is MLH's first LGBTQIA hackathon and aims to
