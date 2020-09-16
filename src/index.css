@@ -16,9 +16,7 @@ body {
 .content {
   height: 100%;
   display: grid;
-  grid-template-columns:15% 85%;
-  /*grid-template-columns: 15% 85%;
-  grid-template-rows: 90% 10%;*/
+  grid-template-columns: 15% 85%;
 }
 
 .b {
@@ -30,6 +28,7 @@ body {
   border-radius: 50px;
   font-size: 1.25em;
   border: none;
+  outline: none; 
   background-color: transparent;
 }
 
@@ -40,23 +39,11 @@ body {
 .buttons {
   padding-top: 30px;
   padding-left: 10px; 
-  /*display: grid;
-  grid-template-columns: 15% 85%;*/
-  /*grid-template-rows: 90% 10%;*/
 }
-
-/*.container {
-  display: grid;
-  height: 100%;
-  grid-template-rows: 20% 80%;
-  padding-left: 60px;
-  align-items: center;
-}*/
 
 .main-logo {
   font-size: 6em;
   width: 100%;
-  /*text-align: center;*/
 }
 
 .home_info {
@@ -68,5 +55,9 @@ body {
 
 .text-link {
   text-decoration: none;
+}
+
+.container {
+  padding-left: 30px; 
 }
 

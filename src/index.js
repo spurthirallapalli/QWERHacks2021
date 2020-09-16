@@ -18,6 +18,7 @@ ReactDOM.render(
    <BrowserRouter>
    <div className="content">
     <Navbar/>
+    <div className="container">
     <Switch>
      <Route exact path="/" component={Home} />
      <Route path="/apply" component={Apply} />
@@ -27,6 +28,7 @@ ReactDOM.render(
      <Route path="/mentors" component={Mentors} />
      <Route path="/resources" component={Resources} />
    </Switch>
+   </div>
    </div>
    </BrowserRouter>
    ,
