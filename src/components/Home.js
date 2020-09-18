@@ -16,6 +16,20 @@ import Navbar from "./Navbar";
                     community building workshops, and the development of innovative products meant to help 
                     underrepresented groups!
                 </div>
+                <div class="tracks">
+                    <div class="box">
+                        <img src={require("../img/track1.png")} alt="healthcare track" width="200px"/> 
+                    </div>
+                    <div class="box">
+                        <img src={require("../img/track2.png")} alt="healthcare track" width="200px"/>
+                    </div>
+                    <div class="box">
+                        <img src={require("../img/track3.png")} alt="healthcare track" width="200px"/>
+                    </div>
+                    <div class="box">
+                    <img src={require("../img/track4.png")} alt="healthcare track" width="200px"/>
+                    </div>
+                </div>
             </div>
         );
 
