@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import './index.css';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 import Home from "./components/Home";
 import Apply from "./components/Apply";
@@ -29,6 +30,9 @@ ReactDOM.render(
      <Route path="/resources" component={Resources} />
    </Switch>
    </div>
+   </div>
+   <div className="foot">
+      <Footer/>
    </div>
    </BrowserRouter>
    ,
