@@ -64,6 +64,26 @@ body {
   padding-left: 80px; 
 }
 
+.question {
+  font-weight: 600;
+}
+
+.qanda {
+  padding-bottom: 30px; 
+  padding-right: 200px; 
+  font-size: 1em; 
+}
+
+.comingsoon {
+  font-size: 3em;
+  padding-top: 10px; 
+}
+
+.footer,
+.push {
+  height: 50px;
+}
+
 @media screen and (max-width:420px) {
   
 }
