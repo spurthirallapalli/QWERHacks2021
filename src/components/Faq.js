@@ -3,7 +3,7 @@ import React from "react";
    function Faq(props) {
 
         return (
-          <div>
+          <div class="faq">
 
             <div class="main-logo">
                 FAQ
@@ -68,10 +68,6 @@ import React from "react";
                   Stay tuned for our application release…and follow us on instagram for more announcements!
                 </div>
             </div>
-
-
-
-
 
           </div>
         );
