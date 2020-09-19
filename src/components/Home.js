@@ -27,7 +27,7 @@ import Navbar from "./Navbar";
                         <img src={require("../img/track3.png")} alt="healthcare track" width="200px"/>
                     </div>
                     <div class="box">
-                    <img src={require("../img/track4.png")} alt="healthcare track" width="200px"/>
+                        <img src={require("../img/track4.png")} alt="healthcare track" width="200px"/>
                     </div>
                 </div>
             </div>
