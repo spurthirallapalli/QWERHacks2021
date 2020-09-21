@@ -7,13 +7,17 @@ html {
 
 body {
   background-image: url(./img/qwerhacks_background.png);
-  background-size: 120%; 
-  background-repeat: repeat;
+  /* background-size: 100%;  */
+  /* background-repeat: repeat; */
+  /* background-size: cover;  */
+  /* background-repeat: no-repeat; */
   font-family: 'Be Vietnam', sans-serif;
-  height: 100%;
-  width: 100%;
+  /* height: 100%;
+  width: 100%; */
+  height: 100vh;
+  width: 100vw;
   margin: 0px 0px;
-  padding: 0px
+  padding: 0px;
 }
 
 .content {
@@ -27,16 +31,27 @@ body {
   text-align: left;
   padding-left: 40px;
   width: 100%; 
-  height: 10vh;
+  height: 9vh;
   border-radius: 50px;
   font-size: 1.25em;
   border: none;
   outline: none; 
   background-color: transparent;
+  margin-bottom: 10px;
 }
 
 .b:hover {
   border: 1px solid black;
+}
+
+.b:focus {
+  font-style: italic;
+  border: 1px solid black;
+  background-image: url(./img/arrow@2x.png);
+  background-repeat: no-repeat;
+  background-size: 20px;
+  background-position-x: 85%;
+  background-position-y: center;
 }
 
 .buttons {
@@ -52,7 +67,6 @@ body {
 }
 
 .home_info {
-  /*margin-top: 10px;*/
   padding: 10px; 
   padding-right: 350px; 
   font-size: 20px;
@@ -121,6 +135,10 @@ body {
 
 .icon {
   padding-right: 20px; 
+}
+
+.arrow {
+  padding-left: 10px;
 }
 
 
