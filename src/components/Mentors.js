@@ -7,8 +7,12 @@ import React from "react";
             <div class="main-logo">
               MENTORS
             </div>
-            <div class="comingsoon">
-              COMING SOON...
+            <div class="mentors">
+                <div>
+                  <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="150px"/>
+                  <div>Here is information about mentor 1</div>
+                </div>
+                
             </div>
           </div>
         );
