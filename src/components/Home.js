@@ -6,28 +6,31 @@ import Navbar from "./Navbar";
 
         return (
             <div>
-                <div class="main-logo">
-                    QWER HACKS
-                </div>
+                <h1>QWER HACKS</h1>
                 <div class="home_info">
-                    we're back and ready to hack! QWER Hacks at UCLA is MLH's first LGBTQIA hackathon and aims to
-                    increase the visibility of and celebrate the queer and trans community in STEM, as well as engage and
-                    bring together queer individuals and allies through empowering tech talks, technical and 
-                    community building workshops, and the development of innovative products meant to help 
-                    underrepresented groups!
+                    <p>
+                        <b>#include &lt;theme&gt;</b>
+                    </p>
+                    <p>
+                        we're back and ready to hack!! qwer hacks at ucla is major league hacking's first LGBTQIA hackathon and aims to
+                        increase the visibility of and celebrate the queer and trans community in STEM, as well as engage and
+                        bring together queer individuals and allies through empowering tech talks, technical and 
+                        community building workshops, and the development of innovative products meant to help 
+                        underrepresented groups!
+                    </p>
                 </div>
                 <div class="tracks">
                     <div class="box">
-                        <img src={require("../img/track1.png")} alt="healthcare track" width="200px"/> 
+                        <img src={require("../img/track1.png")} alt="healthcare track" width="250px"/> 
                     </div>
                     <div class="box">
-                        <img src={require("../img/track2.png")} alt="healthcare track" width="200px"/>
+                        <img src={require("../img/track2.png")} alt="healthcare track" width="250px"/>
                     </div>
                     <div class="box">
-                        <img src={require("../img/track3.png")} alt="healthcare track" width="200px"/>
+                        <img src={require("../img/track3.png")} alt="healthcare track" width="250px"/>
                     </div>
                     <div class="box">
-                        <img src={require("../img/track4.png")} alt="healthcare track" width="200px"/>
+                        <img src={require("../img/track4.png")} alt="healthcare track" width="250px"/>
                     </div>
                 </div>
             </div>
