@@ -68,7 +68,7 @@ body {
 
 .home_info {
   padding: 10px; 
-  padding-right: 350px; 
+  margin-right: 24em; 
   font-size: 20px;
 }
 
@@ -145,6 +145,10 @@ body {
   padding-top: 20px; 
 }
 
+.m {
+  display: flex;
+  flex-direction: row;
+}
 
 
 @media screen and (max-width:420px) {
