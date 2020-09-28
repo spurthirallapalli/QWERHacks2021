@@ -13,19 +13,33 @@ import {Link } from "react-router-dom";
                     <div> HACKS </div>
                 </div>
                 <div class="team">
-                    team:
-                    <div> arjun subramoniam </div>
-                    <div> ashley ghodsian </div>
-                    <div> isabel ketner </div>
-                    <div> natasha puthukudy </div>
+                    <div class="footer-team">team:</div>
+                    <div class="names"> 
+                        <div class="name-col">
+                            <div> arjun subramoniam </div>
+                            <div> ashley ghodsian </div>
+                            <div> isabel ketner </div>
+                            <div> natasha puthukudy </div>
+                        </div>
+                        <div class="name-col">
+                            <div> pragathi venkatesh </div>
+                            <div> rithika srinivasan </div>
+                            <div> sharvani jha </div>
+                            <div> spurthi rallapalli </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="team">
-                    team:
-                    <div> pragathi venkatesh </div>
-                    <div> rithika srinivasan </div>
-                    <div> sharvani jha </div>
-                    <div> spurthi rallapalli </div>
-                </div>  
+                    <div class="footer-team">etc:</div>
+                    <div class="names"> 
+                        <div class="name-col">
+                            <div> sponsorship packet </div>
+                            <div> interested in sponsoring? </div>
+                            <div> interested in mentoring? </div>
+                            <div> interested in volunteering? </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
         );
