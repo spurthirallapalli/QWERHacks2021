@@ -4,12 +4,8 @@ import React from "react";
 
         return (
           <div>
-            <div class="main-logo">
-              APPLY
-            </div>
-            <div class="comingsoon">
-              COMING SOON...
-            </div>
+            <h1>APPLY!</h1>
+            <p><b>coming soon...</b></p>
           </div>
         );
 

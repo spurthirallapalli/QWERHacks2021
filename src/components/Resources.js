@@ -4,9 +4,7 @@ import React from "react";
 
         return (
           <div>
-            <div class="main-logo">
-              RESOURCES
-            </div>
+            <h1>RESOURCES</h1>
             <div class="qanda">
               <div class="question">
                 MLH Code of Conduct

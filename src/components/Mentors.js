@@ -4,9 +4,7 @@ import React from "react";
 
         return (
           <div>
-            <div class="main-logo">
-              MENTORS
-            </div>
+            <h1>MENTORS</h1>
             <div class="mentors">
                 <div>
                   <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="150px"/>
