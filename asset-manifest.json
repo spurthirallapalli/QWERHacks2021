@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QWERHacks2021/static/css/main.7dd6d8bc.chunk.css",
-    "main.js": "/QWERHacks2021/static/js/main.3dfcd614.chunk.js",
-    "main.js.map": "/QWERHacks2021/static/js/main.3dfcd614.chunk.js.map",
+    "main.js": "/QWERHacks2021/static/js/main.266e0e96.chunk.js",
+    "main.js.map": "/QWERHacks2021/static/js/main.266e0e96.chunk.js.map",
     "runtime-main.js": "/QWERHacks2021/static/js/runtime-main.72c2181f.js",
     "runtime-main.js.map": "/QWERHacks2021/static/js/runtime-main.72c2181f.js.map",
     "static/js/2.bb57af0e.chunk.js": "/QWERHacks2021/static/js/2.bb57af0e.chunk.js",
     "static/js/2.bb57af0e.chunk.js.map": "/QWERHacks2021/static/js/2.bb57af0e.chunk.js.map",
     "index.html": "/QWERHacks2021/index.html",
-    "precache-manifest.2d346cfa0b4b313869da5dbf85f51037.js": "/QWERHacks2021/precache-manifest.2d346cfa0b4b313869da5dbf85f51037.js",
+    "precache-manifest.181ef39f7d1ac400185b8ea26c4ae789.js": "/QWERHacks2021/precache-manifest.181ef39f7d1ac400185b8ea26c4ae789.js",
     "service-worker.js": "/QWERHacks2021/service-worker.js",
     "static/css/main.7dd6d8bc.chunk.css.map": "/QWERHacks2021/static/css/main.7dd6d8bc.chunk.css.map",
     "static/js/2.bb57af0e.chunk.js.LICENSE.txt": "/QWERHacks2021/static/js/2.bb57af0e.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.72c2181f.js",
     "static/js/2.bb57af0e.chunk.js",
     "static/css/main.7dd6d8bc.chunk.css",
-    "static/js/main.3dfcd614.chunk.js"
+    "static/js/main.266e0e96.chunk.js"
   ]
 }
