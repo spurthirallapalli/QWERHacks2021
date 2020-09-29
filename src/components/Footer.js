@@ -16,7 +16,7 @@ import {Link } from "react-router-dom";
                     <div class="footer-team">team:</div>
                     <div class="names"> 
                         <div class="name-col">
-                            <div> arjun subramoniam </div>
+                            <div> arjun subramonian </div>
                             <div> ashley ghodsian </div>
                             <div> isabel ketner </div>
                             <div> natasha puthukudy </div>
