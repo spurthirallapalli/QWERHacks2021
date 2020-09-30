@@ -9,8 +9,7 @@ import {Link } from "react-router-dom";
             <div class="footer">
                 {/* <Link className = "text-link" to="/"><button type="button" id="about" class="b">home</button></Link> */}
                 <div class="footer_logo">
-                    <div> QWER </div>
-                    <div> HACKS </div>
+                    <img src={require("../img/website-logo.png")} alt="website logo" class="logo" width="150px" /> 
                 </div>
                 <div class="team">
                     <div class="footer-team">team:</div>
