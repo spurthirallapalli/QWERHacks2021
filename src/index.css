@@ -193,14 +193,16 @@ h1 .subtitle {
   padding-top: 15px; 
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .sponsor-class {
   margin-bottom: 35px; 
+  max-width: 800px;
 }
 
 .spons-img {
-  margin-right: 100px; 
+  margin-right: 80px; 
 }
 
 .spons-img:hover {
@@ -241,13 +243,25 @@ h1 .subtitle {
 
 
 @media screen and (max-width:850px) {
-    body {
-      background-size: auto;
-    }
-}
-
-@media screen and (max-height:850px) {
   body {
     background-size: auto;
   }
+
 }
+
+@media screen and (max-width:850px) {
+  body {
+    background-size: auto;
+  }
+  
+}
+
+@media screen and (max-width:1025px) {
+  .spons-img {
+    margin-right: 30px; 
+    padding-bottom: 20px; 
+  }
+  
+}
+
+
