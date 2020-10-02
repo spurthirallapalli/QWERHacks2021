@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background-image: url(./img/qwerhacks_background.png);
+  background-image: url(./img/holo-back.png);
   background-size: 100% 1600px;
   background-repeat: no-repeat;
   font-family: 'Be Vietnam', sans-serif;
@@ -190,13 +190,13 @@ h1 .subtitle {
 }
 
 .sponsors {
-  padding-top: 20px; 
+  padding-top: 15px; 
   display: flex;
   flex-direction: row;
 }
 
 .sponsor-class {
-  margin-bottom: 40px; 
+  margin-bottom: 35px; 
 }
 
 .spons-img {
@@ -240,6 +240,14 @@ h1 .subtitle {
 }
 
 
-@media screen and (max-width:420px) {
-  
+@media screen and (max-width:850px) {
+    body {
+      background-size: auto;
+    }
+}
+
+@media screen and (max-height:850px) {
+  body {
+    background-size: auto;
+  }
 }
