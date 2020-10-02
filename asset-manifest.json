@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/QWERHacks2021/static/css/main.7dd6d8bc.chunk.css",
-    "main.js": "/QWERHacks2021/static/js/main.266e0e96.chunk.js",
-    "main.js.map": "/QWERHacks2021/static/js/main.266e0e96.chunk.js.map",
+    "main.css": "/QWERHacks2021/static/css/main.33f88878.chunk.css",
+    "main.js": "/QWERHacks2021/static/js/main.fb440b01.chunk.js",
+    "main.js.map": "/QWERHacks2021/static/js/main.fb440b01.chunk.js.map",
     "runtime-main.js": "/QWERHacks2021/static/js/runtime-main.72c2181f.js",
     "runtime-main.js.map": "/QWERHacks2021/static/js/runtime-main.72c2181f.js.map",
-    "static/js/2.bb57af0e.chunk.js": "/QWERHacks2021/static/js/2.bb57af0e.chunk.js",
-    "static/js/2.bb57af0e.chunk.js.map": "/QWERHacks2021/static/js/2.bb57af0e.chunk.js.map",
+    "static/js/2.602e4fbe.chunk.js": "/QWERHacks2021/static/js/2.602e4fbe.chunk.js",
+    "static/js/2.602e4fbe.chunk.js.map": "/QWERHacks2021/static/js/2.602e4fbe.chunk.js.map",
     "index.html": "/QWERHacks2021/index.html",
-    "precache-manifest.181ef39f7d1ac400185b8ea26c4ae789.js": "/QWERHacks2021/precache-manifest.181ef39f7d1ac400185b8ea26c4ae789.js",
+    "precache-manifest.fed77a2c04e48a0a8c1033329a90cf4b.js": "/QWERHacks2021/precache-manifest.fed77a2c04e48a0a8c1033329a90cf4b.js",
     "service-worker.js": "/QWERHacks2021/service-worker.js",
-    "static/css/main.7dd6d8bc.chunk.css.map": "/QWERHacks2021/static/css/main.7dd6d8bc.chunk.css.map",
-    "static/js/2.bb57af0e.chunk.js.LICENSE.txt": "/QWERHacks2021/static/js/2.bb57af0e.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/QWERHacks2021/static/media/qwerhacks_background.bcf903eb.png",
+    "static/css/main.33f88878.chunk.css.map": "/QWERHacks2021/static/css/main.33f88878.chunk.css.map",
+    "static/js/2.602e4fbe.chunk.js.LICENSE.txt": "/QWERHacks2021/static/js/2.602e4fbe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/QWERHacks2021/static/media/holo-back.ff7d9d81.png",
     "static/media/track1.png": "/QWERHacks2021/static/media/track1.c0e57312.png",
     "static/media/track2.png": "/QWERHacks2021/static/media/track2.de1f09e9.png",
     "static/media/track3.png": "/QWERHacks2021/static/media/track3.65e1eada.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.72c2181f.js",
-    "static/js/2.bb57af0e.chunk.js",
-    "static/css/main.7dd6d8bc.chunk.css",
-    "static/js/main.266e0e96.chunk.js"
+    "static/js/2.602e4fbe.chunk.js",
+    "static/css/main.33f88878.chunk.css",
+    "static/js/main.fb440b01.chunk.js"
   ]
 }
