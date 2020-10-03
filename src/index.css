@@ -100,6 +100,11 @@ h1 .subtitle {
   max-width: 800px;
 }
 
+.code-of-conduct {
+  text-decoration: none;
+  color: black; 
+}
+
 .tracks {
   padding-top: 20px; 
   display: flex;

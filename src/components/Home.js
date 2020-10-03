@@ -22,16 +22,16 @@ import Navbar from "./Navbar";
                 </div>
                 <div class="tracks">
                     <div class="box">
-                        <img src={require("../img/track1.png")} alt="healthcare track" width="240px"/> 
+                        <img src={require("../img/track1.png")} alt="healthcare track" width="225px"/> 
                     </div>
                     <div class="box">
-                        <img src={require("../img/track2.png")} alt="healthcare track" width="240px"/>
+                        <img src={require("../img/track2.png")} alt="healthcare track" width="225px"/>
                     </div>
                     <div class="box">
-                        <img src={require("../img/track3.png")} alt="healthcare track" width="240px"/>
+                        <img src={require("../img/track3.png")} alt="healthcare track" width="225px"/>
                     </div>
                     <div class="box">
-                        <img src={require("../img/track4.png")} alt="healthcare track" width="240px"/>
+                        <img src={require("../img/track4-updated.png")} alt="healthcare track" width="225px"/>
                     </div>
                 </div>
             </div>
