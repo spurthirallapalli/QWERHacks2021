@@ -246,7 +246,6 @@ h1 .subtitle {
   body {
     background-size: auto;
   }
-
 }
 
 @media screen and (max-width:850px) {
@@ -261,7 +260,6 @@ h1 .subtitle {
     margin-right: 30px; 
     padding-bottom: 20px; 
   }
-  
 }
 
 
