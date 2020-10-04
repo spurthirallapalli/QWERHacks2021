@@ -33,7 +33,7 @@ import React from "react";
             <h1>PARTNERS</h1>
             <div class="sponsor-class">
                 <div class="sponsors">
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="100px"/> </div>
+                    <a class="spons-img" href="https://teachla.uclaacm.com" target="_blank"><img src={require("../img/teachLA_logo.png")} alt="facebook logo" width="90px"/></a>
                     <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="100px"/> </div>
                 </div>
             </div>
