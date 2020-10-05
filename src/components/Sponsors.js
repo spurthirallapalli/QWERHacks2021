@@ -17,10 +17,10 @@ import React from "react";
             <div class="sponsor-class">
                 <b>#include &lt;harmony tier&gt;</b>
                 <div class="sponsors">
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="100px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="100px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="100px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="100px"/> </div>
+                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
+                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
+                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
+                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
                 </div>
             </div>
             <div class="sponsor-class">
@@ -33,8 +33,8 @@ import React from "react";
             <h1>PARTNERS</h1>
             <div class="sponsor-class">
                 <div class="sponsors">
-                    <a class="spons-img" href="https://teachla.uclaacm.com" target="_blank"><img src={require("../img/teachLA_logo.png")} alt="facebook logo" width="90px"/></a>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="100px"/> </div>
+                    <a class="spons-img" href="https://teachla.uclaacm.com" target="_blank"><img src={require("../img/teachLA_logo.png")} alt="teach LA logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.facebook.com/groups/uclaacmw" target="_blank"><img src={require("../img/acm_w_logo.png")} alt="acm-w logo" width="90px"/></a>
                 </div>
             </div>
           </div>
