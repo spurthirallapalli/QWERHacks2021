@@ -288,12 +288,17 @@ h1 .subtitle {
   }
 
   .content {
-    display: flex; 
-
+    grid-template-columns: 1000px;
   }
 
-  .body {
-    background-size: 200%;
+  .container {
+    
+  }
+
+  .home_info {
+    max-width: 100%;
+    line-height: 1em;
+    font-size: 2em;
   }
   
 }
