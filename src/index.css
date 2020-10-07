@@ -6,7 +6,7 @@ html {
 
 body {
   background-image: url(./img/holo-back.png);
-  background-size: 100% 1600px;
+  background-size: 100% 1000px;
   background-repeat: no-repeat;
   font-family: 'Be Vietnam', sans-serif;
   font-weight: 300;
@@ -280,6 +280,22 @@ h1 .subtitle {
     margin-right: 30px; 
     padding-bottom: 20px; 
   }
+}
+
+@media screen and (max-width: 767px) {
+  .nav {
+    display:none;
+  }
+
+  .content {
+    display: flex; 
+
+  }
+
+  .body {
+    background-size: 200%;
+  }
+  
 }
 
 

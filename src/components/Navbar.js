@@ -6,7 +6,7 @@ import {NavLink } from "react-router-dom";
 
         return (
         
-            <div>
+            <div class="nav">
                 <div class="buttons">
                     <NavLink exact className = "text-link" to="/"><button type="button" id="about" class="b">home</button></NavLink>
                     <NavLink className = "text-link" to="/apply"><button type="button" id="faq" class="b">apply!</button></NavLink>
