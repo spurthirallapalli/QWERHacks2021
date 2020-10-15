@@ -9,25 +9,25 @@ import React from "react";
             <div class="sponsor-class">
                 <b>#include &lt;spirit tier&gt;</b> 
                 <div class="sponsors">
+                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div>
                     <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div>
+                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div> */}
                 </div>
             </div>
             <div class="sponsor-class">
                 <b>#include &lt;harmony tier&gt;</b>
                 <div class="sponsors">
+                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
                     <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
                     <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
+                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div> */}
                 </div>
             </div>
             <div class="sponsor-class">
                 <b>#include &lt;life tier&gt;</b>
                 <div class="sponsors">
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
+                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
+                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div> */}
                 </div>
             </div>
             <h1>PARTNERS</h1>

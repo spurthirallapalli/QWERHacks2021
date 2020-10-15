@@ -32,7 +32,7 @@ import {Link } from "react-router-dom";
                     <div class="footer-team">etc:</div>
                     <div class="names"> 
                         <div class="name-col">
-                            <div> sponsorship packet </div>
+                            <div> <a href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank" class="sponsorship-packet">sponsorship packet</a> </div>
                             <div> interested in sponsoring? </div>
                             <div> interested in mentoring? </div>
                             <div> interested in volunteering? </div>
