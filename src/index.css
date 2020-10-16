@@ -277,6 +277,32 @@ h1 .subtitle {
   color: none; 
 }
 
+.menu {
+  display:none; 
+}
+
+/* .menu {
+  height: 55px;
+  width: 50px;
+}
+
+.line-1 {
+  width: 42px;
+  justify-self: end;
+  color:black; 
+}
+
+.line-2 {
+  width: 42px;
+  justify-self: end;
+  color:black; 
+}
+
+.line-3 {
+  width: 42px;
+  justify-self: end;
+  color:black; 
+} */
 
 @media screen and (max-width:850px) {
   body {
@@ -299,9 +325,17 @@ h1 .subtitle {
 }
 
 @media screen and (max-width: 767px) {
-  .nav {
+  /* .nav {
     display:none;
-  }
+  } */
+
+  /* .menu
+  {
+    
+  } */
+
+
+
   
 }
 

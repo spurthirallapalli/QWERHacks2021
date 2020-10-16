@@ -4,6 +4,7 @@ import './index.css';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import Menu from "./components/Menu";
 
 import Home from "./components/Home";
 import Apply from "./components/Apply";
@@ -19,6 +20,7 @@ ReactDOM.render(
    <BrowserRouter>
    <div className="content">
     <Navbar/>
+    <Menu/>
     <div className="container">
     <Switch>
      <Route exact path="/" component={Home} />
