@@ -225,6 +225,7 @@ h1 .subtitle {
   padding-right: 10px; 
   padding-left: 10px; 
   padding-bottom: 10px; 
+  align-items: center;
 }
 
 .spons-img:hover {

@@ -17,6 +17,7 @@ import React from "react";
             <div class="sponsor-class">
                 <b>#include &lt;harmony tier&gt;</b>
                 <div class="sponsors">
+                <a class="spons-img" href="https://www.att.com" target="_blank"><img src={require("../img/atnt-logo.png")} alt="atnt logo" width="90px"/></a>
                     {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
                     <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
                     <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
@@ -26,8 +27,9 @@ import React from "react";
             <div class="sponsor-class">
                 <b>#include &lt;life tier&gt;</b>
                 <div class="sponsors">
-                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div> */}
+                    <a class="spons-img" href="" target="_blank"><img src={require("../img/facebook-logo.png")} alt="facebook logo" width="90px"/></a>
+                    {/* <a class="spons-img" href="" target="_blank"><img src={require("../img/northrop-logo.png")} alt="northrop logo" width="90px"/></a> */}
+                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div> */}
                 </div>
             </div>
             <h1>PARTNERS</h1>
