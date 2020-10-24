@@ -1,31 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4dde80b7c3d1af43624f16216dd58d7b",
+    "revision": "e29ed218ac04bd63bab6a82e50737fda",
     "url": "/QWERHacks2021/index.html"
   },
   {
-    "revision": "7c43d34c24d04f5c4483",
-    "url": "/QWERHacks2021/static/css/main.8a8c24ea.chunk.css"
+    "revision": "264f5842ce439bb3a2a6",
+    "url": "/QWERHacks2021/static/css/main.768e8c0c.chunk.css"
   },
   {
-    "revision": "17b13879b0a43827489b",
-    "url": "/QWERHacks2021/static/js/2.602e4fbe.chunk.js"
+    "revision": "0b39162afa1ae0b33ee6",
+    "url": "/QWERHacks2021/static/js/2.53bb3be4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/QWERHacks2021/static/js/2.602e4fbe.chunk.js.LICENSE.txt"
+    "url": "/QWERHacks2021/static/js/2.53bb3be4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c43d34c24d04f5c4483",
-    "url": "/QWERHacks2021/static/js/main.e47fb606.chunk.js"
+    "revision": "264f5842ce439bb3a2a6",
+    "url": "/QWERHacks2021/static/js/main.88570c97.chunk.js"
   },
   {
     "revision": "51f012485ff8545e5b1d",
     "url": "/QWERHacks2021/static/js/runtime-main.72c2181f.js"
   },
   {
+    "revision": "b954b0f1e5707508c756991f80b05d8d",
+    "url": "/QWERHacks2021/static/media/atnt-logo.b954b0f1.png"
+  },
+  {
+    "revision": "89ffab2c58bd9d2eec32db720a202356",
+    "url": "/QWERHacks2021/static/media/facebook-logo.89ffab2c.png"
+  },
+  {
     "revision": "ff7d9d81aedf1f3645d01945b81adf5e",
     "url": "/QWERHacks2021/static/media/holo-back.ff7d9d81.png"
+  },
+  {
+    "revision": "76032f93bd8b1ffbed2a237d795c9e2b",
+    "url": "/QWERHacks2021/static/media/moss.76032f93.png"
+  },
+  {
+    "revision": "cd85cbd6ae18168da40195ca2ac625d9",
+    "url": "/QWERHacks2021/static/media/raksha.cd85cbd6.png"
   },
   {
     "revision": "c0e5731232f179f29806ad7ced0ffa82",
