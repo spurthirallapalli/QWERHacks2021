@@ -20,7 +20,6 @@ ReactDOM.render(
    <BrowserRouter>
    <div className="content">
     <Navbar/>
-    <Menu/>
     <div className="container">
     <Switch>
      <Route exact path="/" component={Home} />

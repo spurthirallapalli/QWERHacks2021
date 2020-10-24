@@ -15,16 +15,16 @@ import {Link } from "react-router-dom";
                     <div class="footer-team">team:</div>
                     <div class="names"> 
                         <div class="name-col">
-                            <div> arjun subramonian </div>
-                            <div> ashley ghodsian </div>
-                            <div> isabel ketner </div>
-                            <div> natasha puthukudy </div>
+                            <div> <b>arjun</b> subramonian </div>
+                            <div> <b>ashley</b> ghodsian </div>
+                            <div> <b>isabel</b> ketner </div>
+                            <div> <b>natasha</b> puthukudy </div>
                         </div>
                         <div class="name-col">
-                            <div> pragathi venkatesh </div>
-                            <div> rithika srinivasan </div>
-                            <div> sharvani jha </div>
-                            <div> spurthi rallapalli </div>
+                            <div> <b>pragathi</b> venkatesh </div>
+                            <div> <b>rithika</b> srinivasan </div>
+                            <div> <b>sharvani</b> jha </div>
+                            <div> <b>spurthi</b> rallapalli </div>
                         </div>
                     </div>
                 </div>

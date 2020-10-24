@@ -6,7 +6,7 @@ import Navbar from "./Navbar";
 
         return (
             <div>
-                <h1>QWER HACKS <span class="subtitle">// virtual - january 23-24, 2021</span></h1>
+                <h1>QWER HACKS <div class="subtitle">// virtual - january 23-24, 2021</div></h1>
                 
                 <div class="home_info">
                     <p>
@@ -22,16 +22,16 @@ import Navbar from "./Navbar";
                 </div>
                 <div class="tracks">
                     <div class="box">
-                        <img src={require("../img/track1.png")} alt="healthcare track" width="225px"/> 
+                        <img src={require("../img/track1.png")} alt="healthcare track" class="t" width="225px"/> 
                     </div>
                     <div class="box">
-                        <img src={require("../img/track2.png")} alt="healthcare track" width="225px"/>
+                        <img src={require("../img/track2.png")} alt="healthcare track" class="t" width="225px"/>
                     </div>
                     <div class="box">
-                        <img src={require("../img/track3.png")} alt="healthcare track" width="225px"/>
+                        <img src={require("../img/track3.png")} alt="healthcare track" class="t" width="225px"/>
                     </div>
                     <div class="box">
-                        <img src={require("../img/track4-updated.png")} alt="healthcare track" width="225px"/>
+                        <img src={require("../img/track4-updated.png")} alt="healthcare track" class="t" width="225px"/>
                     </div>
                 </div>
             </div>
