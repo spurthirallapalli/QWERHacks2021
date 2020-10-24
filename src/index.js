@@ -18,6 +18,9 @@ import Resources from "./components/Resources";
 const rootElement = document.getElementById("root");
 ReactDOM.render(
    <BrowserRouter>
+   <div>
+      <Menu/>
+    </div>
    <div className="content">
     <Navbar/>
     <div className="container">

@@ -6,7 +6,7 @@ import Navbar from "./Navbar";
 
         return (
             <div>
-                <h1>QWER HACKS <div class="subtitle">// virtual - january 23-24, 2021</div></h1>
+                <h1><div>QWER HACKS</div> <div class="subtitle">// virtual - january 23-24, 2021</div></h1>
                 
                 <div class="home_info">
                     <p>

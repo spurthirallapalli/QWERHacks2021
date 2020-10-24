@@ -15,16 +15,16 @@ import {Link } from "react-router-dom";
                     <div class="footer-team">team:</div>
                     <div class="names"> 
                         <div class="name-col">
-                            <div> <b>arjun</b> subramonian </div>
-                            <div> <b>ashley</b> ghodsian </div>
-                            <div> <b>isabel</b> ketner </div>
-                            <div> <b>natasha</b> puthukudy </div>
+                            <div class="n"> <b>arjun</b> subramonian </div>
+                            <div class="n"> <b>ashley</b> ghodsian </div>
+                            <div class="n"> <b>isabel</b> ketner </div>
+                            <div class="n"> <b>natasha</b> puthukudy </div>
                         </div>
                         <div class="name-col">
-                            <div> <b>pragathi</b> venkatesh </div>
-                            <div> <b>rithika</b> srinivasan </div>
-                            <div> <b>sharvani</b> jha </div>
-                            <div> <b>spurthi</b> rallapalli </div>
+                            <div class="n"> <b>pragathi</b> venkatesh </div>
+                            <div class="n"> <b>rithika</b> srinivasan </div>
+                            <div class="n"> <b>sharvani</b> jha </div>
+                            <div class="n"> <b>spurthi</b> rallapalli </div>
                         </div>
                     </div>
                 </div>
@@ -32,10 +32,10 @@ import {Link } from "react-router-dom";
                     <div class="footer-team">etc:</div>
                     <div class="names"> 
                         <div class="name-col">
-                            <div> <a href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank" class="sponsorship-packet">sponsorship packet</a> </div>
-                            <div> interested in sponsoring? </div>
-                            <div> interested in mentoring? </div>
-                            <div> interested in volunteering? </div>
+                            <div class="other"> <a href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank" class="sponsorship-packet">sponsorship packet</a> </div>
+                            <div class="other"> interested in sponsoring?</div>
+                            <div class="other"> interested in mentoring?</div>
+                            <div class="other"> interested in volunteering?</div>
                         </div>
                     </div>
                 </div>
