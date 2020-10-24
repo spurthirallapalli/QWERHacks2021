@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/QWERHacks2021/static/css/main.768e8c0c.chunk.css",
-    "main.js": "/QWERHacks2021/static/js/main.88570c97.chunk.js",
-    "main.js.map": "/QWERHacks2021/static/js/main.88570c97.chunk.js.map",
+    "main.css": "/QWERHacks2021/static/css/main.82262e0f.chunk.css",
+    "main.js": "/QWERHacks2021/static/js/main.1d9582d3.chunk.js",
+    "main.js.map": "/QWERHacks2021/static/js/main.1d9582d3.chunk.js.map",
     "runtime-main.js": "/QWERHacks2021/static/js/runtime-main.72c2181f.js",
     "runtime-main.js.map": "/QWERHacks2021/static/js/runtime-main.72c2181f.js.map",
     "static/js/2.53bb3be4.chunk.js": "/QWERHacks2021/static/js/2.53bb3be4.chunk.js",
     "static/js/2.53bb3be4.chunk.js.map": "/QWERHacks2021/static/js/2.53bb3be4.chunk.js.map",
     "index.html": "/QWERHacks2021/index.html",
-    "precache-manifest.93cc75b0f1d70a9c4f00ada5e1c17075.js": "/QWERHacks2021/precache-manifest.93cc75b0f1d70a9c4f00ada5e1c17075.js",
+    "precache-manifest.4ed30941023ef4698c77cf91a3e08ffd.js": "/QWERHacks2021/precache-manifest.4ed30941023ef4698c77cf91a3e08ffd.js",
     "service-worker.js": "/QWERHacks2021/service-worker.js",
-    "static/css/main.768e8c0c.chunk.css.map": "/QWERHacks2021/static/css/main.768e8c0c.chunk.css.map",
+    "static/css/main.82262e0f.chunk.css.map": "/QWERHacks2021/static/css/main.82262e0f.chunk.css.map",
     "static/js/2.53bb3be4.chunk.js.LICENSE.txt": "/QWERHacks2021/static/js/2.53bb3be4.chunk.js.LICENSE.txt",
     "static/media/atnt-logo.png": "/QWERHacks2021/static/media/atnt-logo.b954b0f1.png",
     "static/media/facebook-logo.png": "/QWERHacks2021/static/media/facebook-logo.89ffab2c.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.72c2181f.js",
     "static/js/2.53bb3be4.chunk.js",
-    "static/css/main.768e8c0c.chunk.css",
-    "static/js/main.88570c97.chunk.js"
+    "static/css/main.82262e0f.chunk.css",
+    "static/js/main.1d9582d3.chunk.js"
   ]
 }
