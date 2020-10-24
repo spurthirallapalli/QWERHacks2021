@@ -1,30 +1,28 @@
 import React from "react";
+import Navbar from "./Navbar";
 
 function Menu() {
 
+    function handleClick(e) {
+      console.log('The link was clicked.');
+    }
+
     return (
       <div class="header">
-        <div class="menu" id="hamburger">
-              <div class="line"></div>
-              <div class="line"></div>
-              <div class="line"></div>
-        </div>
-        <div class="something">
-            <div class="head">QWER HACKS</div>
-        </div>
+          <div class="menu" id="hamburger" onClick={handleClick}>
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+          </div>
+          <div class="something">
+              <div class="head">QWER HACKS</div>
+          </div>
+
       </div>
 
     );
 
 }
 
-function myFunction() {
-  var x = document.getElementById("nbar");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
 
 export default Menu;

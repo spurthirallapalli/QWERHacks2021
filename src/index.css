@@ -73,7 +73,7 @@ h1 .subtitle {
   bottom: 12px;
   position: relative;
   margin-left: 0.2em;
-  padding-top: 1em; 
+  padding-top: 0.8em;
 }
 
 .home_info {
@@ -290,6 +290,10 @@ h1 .subtitle {
   margin: 3px 0;
 }
 
+.social_media_mobile {
+  display: none; 
+}
+
 @media screen and (max-width:850px) {
   body {
     background-size: auto;
@@ -370,7 +374,6 @@ h1 .subtitle {
     .names {
       display: flex;
       flex-direction: column;
-      /* text-align: center; */
     }
 
     .name-col {
@@ -400,6 +403,7 @@ h1 .subtitle {
     
     h1 {
       font-size: 50px;
+      padding-top: 20px; 
     }
 
     .head {
@@ -418,11 +422,39 @@ h1 .subtitle {
       display: flex;
     }
 
-    .menu:active {
-      
+    .sponsors {
+      display: block;
+      padding-right: 0px; 
+    }
+
+    .spons-img {
+      margin-right: 0px; 
     }
     
+    .people {
+      display: flex;
+      flex-direction: column;
+    }
 
+    .mentor-image {
+      display:block; 
+      padding-bottom: 10px; 
+    }
+
+    .mentor-text {
+      padding-left: 0px; 
+    }
+    
+    .whoknows {
+      padding-top: 30px; 
+      display: flex;
+      align-items: center;
+    }
+
+    .social_media_mobile {
+      display: flex; 
+      align-items: center;
+    }
 
   
 }

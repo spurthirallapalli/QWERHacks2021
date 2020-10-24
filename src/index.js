@@ -20,7 +20,7 @@ ReactDOM.render(
    <BrowserRouter>
    <div>
       <Menu/>
-    </div>
+   </div>
    <div className="content">
     <Navbar/>
     <div className="container">

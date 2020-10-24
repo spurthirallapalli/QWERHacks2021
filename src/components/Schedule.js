@@ -4,7 +4,7 @@ import React from "react";
 
         return (
           <div class="schedule">
-            <h1>SCHEDULE <span class="subtitle">// tentative</span></h1>
+            <h1><div>SCHEDULE</div> <div class="subtitle">// tentative</div></h1>
             <ul>
               <li class="session">
                 <div class="when"><b>10:00am, sat 1/23</b></div>

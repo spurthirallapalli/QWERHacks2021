@@ -16,9 +16,6 @@ import {NavLink } from "react-router-dom";
                     <NavLink className = "text-link" to="/mentors"><button type="button" id="resources" class="b">mentors</button></NavLink>
                     <NavLink className = "text-link" to="/resources"><button type="button" id="resources" class="b">resources</button></NavLink>
                 </div>
-                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                    <i class="fa fa-bars"></i>
-                </a>
                 <div class="social_media">
                     <div class="icon">
                         <a href="https://www.facebook.com/qwerhacks/" target="_blank"><img src={require("../img/fb-icon.png")} alt="facebook logo" width="30px"/></a>
