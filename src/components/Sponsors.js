@@ -4,7 +4,10 @@ import React from "react";
 
         return (
           <div>
-            <h1><div>SPONSORS</div> <div class="subtitle">// our sponsorship deck</div></h1>
+            <h1><div>SPONSORS</div> 
+            {/* <div class="subtitle">// our sponsorship deck</div> */}
+            <div class="subtitle"><a class="edit" href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank">// our sponsorship deck</a></div>
+            </h1>
             <p><b>contact us by email, facebook, or instagram if you're interested in sponsoring qwer hacks 2021!</b></p>
             <div class="sponsor-class">
                 <b>#include &lt;spirit tier&gt;</b> 

@@ -19,6 +19,10 @@ import Navbar from "./Navbar";
                         community building workshops, and the development of innovative products meant to help 
                         underrepresented groups!
                     </p>
+                    <p>
+                        the theme this year is to build projects that actively create the future you want to see. maybe ten years from now, we'll live in a world where Black trans lives matter or non-binary 
+                        individuals have access to healthcare that respects their identities; we'd like attendees to design and build products that create these futures. 
+                    </p>
                 </div>
                 <div class="tracks">
                     <div class="box">
