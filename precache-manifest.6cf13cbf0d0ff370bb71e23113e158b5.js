@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a41a570e898951b24642aedc826237cb",
+    "revision": "d96ca1ce7bc4941105c9dce82d79543c",
     "url": "/QWERHacks2021/index.html"
   },
   {
-    "revision": "7b12e118ea5b8e49ac5e",
-    "url": "/QWERHacks2021/static/css/main.cf403f86.chunk.css"
+    "revision": "24eccd7d97125a5db3f5",
+    "url": "/QWERHacks2021/static/css/main.7708d765.chunk.css"
   },
   {
     "revision": "be91af1fdb4b00ed5757",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/QWERHacks2021/static/js/2.0a6294e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b12e118ea5b8e49ac5e",
+    "revision": "24eccd7d97125a5db3f5",
     "url": "/QWERHacks2021/static/js/main.8131cf58.chunk.js"
   },
   {

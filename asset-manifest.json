@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/QWERHacks2021/static/css/main.cf403f86.chunk.css",
+    "main.css": "/QWERHacks2021/static/css/main.7708d765.chunk.css",
     "main.js": "/QWERHacks2021/static/js/main.8131cf58.chunk.js",
     "main.js.map": "/QWERHacks2021/static/js/main.8131cf58.chunk.js.map",
     "runtime-main.js": "/QWERHacks2021/static/js/runtime-main.72c2181f.js",
@@ -8,9 +8,9 @@
     "static/js/2.0a6294e2.chunk.js": "/QWERHacks2021/static/js/2.0a6294e2.chunk.js",
     "static/js/2.0a6294e2.chunk.js.map": "/QWERHacks2021/static/js/2.0a6294e2.chunk.js.map",
     "index.html": "/QWERHacks2021/index.html",
-    "precache-manifest.5a676996a30d40c83fbb3e12a6f90c64.js": "/QWERHacks2021/precache-manifest.5a676996a30d40c83fbb3e12a6f90c64.js",
+    "precache-manifest.6cf13cbf0d0ff370bb71e23113e158b5.js": "/QWERHacks2021/precache-manifest.6cf13cbf0d0ff370bb71e23113e158b5.js",
     "service-worker.js": "/QWERHacks2021/service-worker.js",
-    "static/css/main.cf403f86.chunk.css.map": "/QWERHacks2021/static/css/main.cf403f86.chunk.css.map",
+    "static/css/main.7708d765.chunk.css.map": "/QWERHacks2021/static/css/main.7708d765.chunk.css.map",
     "static/js/2.0a6294e2.chunk.js.LICENSE.txt": "/QWERHacks2021/static/js/2.0a6294e2.chunk.js.LICENSE.txt",
     "static/media/atnt-logo.png": "/QWERHacks2021/static/media/atnt-logo.b954b0f1.png",
     "static/media/facebook-logo.png": "/QWERHacks2021/static/media/facebook-logo.89ffab2c.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.72c2181f.js",
     "static/js/2.0a6294e2.chunk.js",
-    "static/css/main.cf403f86.chunk.css",
+    "static/css/main.7708d765.chunk.css",
     "static/js/main.8131cf58.chunk.js"
   ]
 }
