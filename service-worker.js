@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/QWERHacks2021/precache-manifest.4ed30941023ef4698c77cf91a3e08ffd.js"
+  "/QWERHacks2021/precache-manifest.5a676996a30d40c83fbb3e12a6f90c64.js"
 );
 
 self.addEventListener('message', (event) => {
