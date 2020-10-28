@@ -50,7 +50,7 @@ import {Link } from "react-router-dom";
                         <div class="icon"> 
                             <a href="mailto:qwerhacks@gmail.com"><img src={require("../img/email-icon.png")} alt="email logo" width="30px"/></a>
                         </div>
-                        <div class="icon"> 
+                        <div class="icon2"> 
                             <a href="https://twitter.com/qwerhacks" target="_blank"><img src={require("../img/icon-twitter.png")} alt="twitter logo" width="30px"/></a>
                         </div>
                     </div>

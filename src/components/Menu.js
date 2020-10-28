@@ -1,10 +1,13 @@
-import React from "react";
+import React,{useState} from "react";
 import Navbar from "./Navbar";
 
 function Menu() {
 
+    const [showNav, setshowNav] = useState(false);
+
     function handleClick(e) {
-      console.log('The link was clicked.');
+      setshowNav(!showNav);
+      console.log(showNav);
     }
 
     return (
@@ -17,7 +20,7 @@ function Menu() {
           <div class="something">
               <div class="head">QWER HACKS</div>
           </div>
-
+          {showNav && <div className="mobile-nav"><Navbar/></div>}
       </div>
 
     );

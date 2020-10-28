@@ -333,14 +333,13 @@ h1 .subtitle {
       text-align: center;
     }
     
-    .nav {
+    .desktop-nav {
       display: none; 
     }
 
     .container {
       padding-left: 10px; 
       width: 150%;
-      /* text-align: center; */
     }
 
     .content {
@@ -349,7 +348,6 @@ h1 .subtitle {
     }
 
     .tracks {
-      /* align-items: center; */
       margin-left: auto; 
       margin-right: auto; 
     }
@@ -449,6 +447,12 @@ h1 .subtitle {
     .mentor-text {
       padding-left: 0px; 
     }
+
+    .social_media_mobile {
+      display: flex;
+      margin-left: auto;
+      margin-right: auto; 
+    }
     
     .whoknows {
       padding-top: 30px; 
@@ -456,11 +460,35 @@ h1 .subtitle {
       align-items: center;
     }
 
-    .social_media_mobile {
-      display: flex; 
-      align-items: center;
+    .icon {
+      padding-right: 0px; 
+      margin-right: 20px;
     }
 
+    .icon2 {
+      margin-right: 0px;
+    }
+
+    .mobile-nav {
+      /* background-image: url(./img/holo-back.png); */
+      z-index: 100;
+      background-color: transparent;
+      width: 300%;
+    }
+
+    .buttons {
+      padding-top: 20px;
+      margin-left: 20px; 
+    }
+
+    .b {
+      margin-bottom: 1em; 
+    }
+
+    .check {
+      width: 100%;
+      margin-left: 0px;
+    }
   
 }
 

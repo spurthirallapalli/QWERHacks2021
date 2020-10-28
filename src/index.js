@@ -22,7 +22,7 @@ ReactDOM.render(
       <Menu/>
    </div>
    <div className="content">
-    <Navbar/>
+    <div className="desktop-nav"><Navbar/></div>
     <div className="container">
     <Switch>
      <Route exact path="/" component={Home} />
