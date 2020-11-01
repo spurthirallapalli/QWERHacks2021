@@ -354,6 +354,7 @@ h1 .subtitle {
 
     .box {
       padding-right: 0; 
+      width: 150px; 
     }
 
     .home_info {
