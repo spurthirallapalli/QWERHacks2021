@@ -20,7 +20,7 @@ function Menu() {
           <div class="something">
               <div class="head">QWER HACKS</div>
           </div>
-          {showNav && <div className="mobile-nav"><Navbar/></div>}
+          {showNav && <div className="mobile-nav" onClick={handleClick}><Navbar/></div>}
       </div>
 
     );
