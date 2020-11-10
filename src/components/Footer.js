@@ -17,7 +17,10 @@ import {Link } from "react-router-dom";
                         <div class="name-col">
                             <div class="n"> <b>arjun</b> subramonian </div>
                             <div class="n"> <b>ashley</b> ghodsian </div>
+                            <div class="n"> <b>christine</b> kim </div>
+                            <div class="n"> <b>diantha</b> ngo </div>
                             <div class="n"> <b>isabel</b> ketner </div>
+                            <div class="n"> <b>karina</b> ting </div>
                             <div class="n"> <b>natasha</b> puthukudy </div>
                         </div>
                         <div class="name-col">
@@ -25,6 +28,8 @@ import {Link } from "react-router-dom";
                             <div class="n"> <b>rithika</b> srinivasan </div>
                             <div class="n"> <b>sharvani</b> jha </div>
                             <div class="n"> <b>spurthi</b> rallapalli </div>
+                            <div class="n"> <b>tanya</b> zhong </div>
+                            <div class="n"> <b>vivian</b> chu </div>
                         </div>
                     </div>
                 </div>
