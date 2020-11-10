@@ -195,7 +195,7 @@ h1 .subtitle {
   font-weight: 600;
   padding-bottom: 10px;
   font-size: 1.25em; 
-  text-decoration: none;
+  text-decoration: underline;
   color: black; 
 }
 
@@ -234,9 +234,9 @@ h1 .subtitle {
   align-items: center;
 }
 
-.spons-img:hover {
+/* .spons-img:hover {
   border: 1px solid black;
-}
+} */
 
 .schedule ul {
   list-style-type: none;

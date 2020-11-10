@@ -10,7 +10,7 @@ import Navbar from "./Navbar";
                 
                 <div class="home_info">
                     <p>
-                        <b>#include &lt;theme&gt;</b>
+                        <b>#include &lt;building a better future&gt;</b>
                     </p>
                     <p>
                         we're back and ready to hack!! qwer hacks at ucla is major league hacking's first LGBTQIA hackathon and aims to
@@ -20,8 +20,12 @@ import Navbar from "./Navbar";
                         underrepresented groups!
                     </p>
                     <p>
-                        the theme this year is to build projects that actively create the future you want to see. maybe ten years from now, we'll live in a world where Black trans lives matter or non-binary 
-                        individuals have access to healthcare that respects their identities; we'd like attendees to design and build products that create these futures. 
+                        this year, in a space that celebrates identity, intersectionality, and community, we'd like you to create a future 
+                        you want to see. we could live in a world where Black trans lives not only matter – but thrive, non-binary 
+                        individuals have access to inclusive and respectful healthcare, public policies work to make life easier 
+                        for marginalized groups, our education system celebrates and uplifts underrepresented voices, and our diverse 
+                        identities are reflected both on our screens and behind the scenes.
+                        
                     </p>
                 </div>
                 <div class="tracks">
