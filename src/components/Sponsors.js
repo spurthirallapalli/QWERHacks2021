@@ -38,7 +38,8 @@ import React from "react";
             <div class="sponsor-class">
                 <div class="sponsors">
                     <a class="spons-img" href="https://teachla.uclaacm.com" target="_blank"><img src={require("../img/acm-teachla-updated.png")} alt="teach LA logo" width="90px"/></a>
-                    <a class="spons-img" href="https://www.facebook.com/groups/uclaacmw" target="_blank"><img src={require("../img/acm-w-updated.png")} alt="acm-w logo" width="90px"/></a>
+                    <a class="spons-img" href="https://w.uclaacm.com" target="_blank"><img src={require("../img/acm-w-updated.png")} alt="acm-w logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.instagram.com/queersinstem/" target="_blank"><img src={require("../img/qtstem.png")} alt="acm-w logo" width="90px"/></a>
                 </div>
             </div>
           </div>

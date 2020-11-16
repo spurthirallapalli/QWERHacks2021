@@ -21,7 +21,7 @@ import Navbar from "./Navbar";
                     </p>
                     <p>
                         this year, in a space that celebrates identity, intersectionality, and community, we'd like you to create a future 
-                        you want to see. we could live in a world where Black trans lives not only matter – but thrive, non-binary 
+                        you want to see. we could live in a world where Black trans lives not only matter, but thrive, non-binary 
                         individuals have access to inclusive and respectful healthcare, public policies work to make life easier 
                         for marginalized groups, our education system celebrates and uplifts underrepresented voices, and our diverse 
                         identities are reflected both on our screens and behind the scenes.
