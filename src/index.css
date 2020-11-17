@@ -77,7 +77,7 @@ h1 .subtitle {
 }
 
 .edit {
-  text-decoration: none;
+  text-decoration: underline;
   color: black; 
 }
 
@@ -293,6 +293,10 @@ h1 .subtitle {
   height: 4px;
   background-color: black;
   margin: 3px 0;
+}
+
+.other {
+  text-decoration: underline;
 }
 
 .social_media_mobile {

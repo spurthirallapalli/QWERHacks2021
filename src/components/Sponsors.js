@@ -5,33 +5,32 @@ import React from "react";
         return (
           <div>
             <h1><div>SPONSORS</div> 
-            <div class="subtitle"><a class="edit" href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank">// our sponsorship deck</a> + <a class="edit" href="https://tinyurl.com/qwer-sponsor" target="_blank">sponsorship form</a></div>
+            <div class="subtitle">//our <a class="edit" href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank">sponsorship deck</a> + <a class="edit" href="https://tinyurl.com/qwer-sponsor" target="_blank">sponsorship form</a></div>
             </h1>
             {/* <p><b>contact us by email, facebook, or instagram if you're interested in sponsoring qwer hacks 2021!</b></p> */}
             <div class="sponsor-class">
                 <b>#include &lt;spirit tier&gt;</b> 
                 <div class="sponsors">
-                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="130px"/> </div> */}
+                    <a class="spons-img" href="https://www.xilinx.com/" target="_blank"> <img src={require("../img/xilinx.png")} alt="xilinx logo" width="90px"/> </a>
                 </div>
             </div>
             <div class="sponsor-class">
                 <b>#include &lt;harmony tier&gt;</b>
                 <div class="sponsors">
-                <a class="spons-img" href="https://www.att.com" target="_blank"><img src={require("../img/atnt-logo.png")} alt="atnt logo" width="90px"/></a>
-                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div>
-                    <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div> */}
+                    <a class="spons-img" href="https://www.att.com" target="_blank"><img src={require("../img/att.png")} alt="att logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.oracle.com/index.html" target="_blank"><img src={require("../img/oracle.png")} alt="oracle logo" width="90px"/></a>
                 </div>
             </div>
             <div class="sponsor-class">
                 <b>#include &lt;life tier&gt;</b>
                 <div class="sponsors">
-                    <a class="spons-img" href="" target="_blank"><img src={require("../img/facebook-logo.png")} alt="facebook logo" width="90px"/></a>
-                    {/* <a class="spons-img" href="" target="_blank"><img src={require("../img/northrop-logo.png")} alt="northrop logo" width="90px"/></a> */}
-                    {/* <div class="spons-img"> <img src={require("../img/mentortemplate.jpg")} alt="facebook logo" width="90px"/> </div> */}
+                    <a class="spons-img" href="https://www.facebook.com/" target="_blank"><img src={require("../img/facebook.png")} alt="facebook logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.northropgrumman.com/" target="_blank"><img src={require("../img/northrop.png")} alt="northop logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.pimco.com" target="_blank"><img src={require("../img/pimco.png")} alt="pimco logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.fmglobal.com/" target="_blank"><img src={require("../img/fmglobal.png")} alt="fmglobal logo" width="90px"/></a>
+                    <a class="spons-img" href="https://aerospace.org/" target="_blank"><img src={require("../img/aerospace.png")} alt="aerospace logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.chevron.com/" target="_blank"><img src={require("../img/chevron.png")} alt="chervon logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.marathonpetroleum.com/" target="_blank"><img src={require("../img/marathon.png")} alt="marathon logo" width="90px"/></a>
                 </div>
             </div>
             <h1>PARTNERS</h1>

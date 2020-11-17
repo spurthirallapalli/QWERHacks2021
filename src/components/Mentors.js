@@ -5,7 +5,7 @@ import React from "react";
         return (
           <div>
             <h1>MENTORS
-            <div class="subtitle"><a class="edit" href="https://tinyurl.com/qwer-hacks-collab" target="_blank">// interested in mentoring?</a></div>
+            <div class="subtitle">//<a class="edit" href="https://tinyurl.com/qwer-hacks-collab" target="_blank"> interested in mentoring?</a></div>
             </h1>
             <div class="mentors">
                 <div class="people">
