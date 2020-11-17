@@ -40,7 +40,7 @@ import {Link } from "react-router-dom";
                             <div class="other"> <a href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank" class="sponsorship-packet">sponsorship packet</a> </div>
                             <div class="other"> <a href="https://tinyurl.com/qwer-sponsor" target="_blank" class="sponsorship-packet">interested in sponsoring?</a></div>
                             <div class="other"> <a href="https://tinyurl.com/qwer-hacks-collab" target="_blank" class="sponsorship-packet">interested in mentoring?</a></div>
-                            <div class="other"> interested in volunteering?</div>
+                            {/* <div class="other"> interested in volunteering?</div> */}
                         </div>
                     </div>
                 </div>

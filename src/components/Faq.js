@@ -63,7 +63,7 @@ import React from "react";
                   sounds great, how can i apply?
                 </div>
                 <div class="answer">
-                  stay tuned for our application release…and follow us on instagram for more announcements!
+                  go to our apply page and fill out the google form!
                 </div>
             </div>
 

@@ -275,7 +275,8 @@ h1 .subtitle {
 }
 
 .check {
-  margin-left: -35px;  
+  /* margin-left: -35px;   */
+  
   padding-top: 20px; 
 }
 
