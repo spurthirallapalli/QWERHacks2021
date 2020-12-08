@@ -3,7 +3,9 @@ import React from "react";
    function Faq(props) {
 
         return (
+          
           <div class="faq">
+            <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px"/> 
 
             <h1>FAQ</h1>
 

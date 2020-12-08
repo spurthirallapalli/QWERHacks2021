@@ -325,6 +325,12 @@ h1 .subtitle {
   }
 }
 
+.mlh {
+  position: absolute; 
+  top: 0px;
+  right: 100px;
+}
+
 /* @media screen and (max-width: 414) {
   .content {
     grid-template-columns: 75% 0px;
@@ -505,6 +511,14 @@ h1 .subtitle {
     .check {
       width: 100%;
       margin-left: 0px;
+    }
+
+    .mlh {
+      position: absolute; 
+      top: 0px;
+      right: 0px;
+      width: 50px; 
+      height: 90px;
     }
   
 }

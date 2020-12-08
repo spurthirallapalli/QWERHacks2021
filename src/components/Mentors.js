@@ -4,6 +4,7 @@ import React from "react";
 
         return (
           <div>
+            <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px"/> 
             <h1>MENTORS
             <div class="subtitle">//<a class="edit" href="https://tinyurl.com/qwer-hacks-collab" target="_blank"> interested in mentoring?</a></div>
             </h1>

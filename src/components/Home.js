@@ -6,8 +6,8 @@ import Navbar from "./Navbar";
 
         return (
             <div>
+                <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px"/> 
                 <h1><div>QWER HACKS</div> <div class="subtitle">// virtual - january 23-24, 2021</div></h1>
-                
                 <div class="home_info">
                     <p>
                         <b>#include &lt;building a better future&gt;</b>

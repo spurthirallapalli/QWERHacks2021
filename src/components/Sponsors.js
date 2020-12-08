@@ -4,6 +4,7 @@ import React from "react";
 
         return (
           <div>
+            <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px"/> 
             <h1><div>SPONSORS</div> 
             <div class="subtitle">//our <a class="edit" href="https://drive.google.com/file/d/17rk7LLz3M1pvERu4jV5smDqKyXVDLIkI/view?usp=sharing" target="_blank">sponsorship deck</a> + <a class="edit" href="https://tinyurl.com/qwer-sponsor" target="_blank">sponsorship form</a></div>
             </h1>
@@ -36,6 +37,7 @@ import React from "react";
             <h1>PARTNERS</h1>
             <div class="sponsor-class">
                 <div class="sponsors">
+                    <a class="spons-img" href="https://www.swe.ucla.edu/" target="_blank"><img src={require("../img/swe.png")} alt="swe-ucla logo" width="100px"/></a>
                     <a class="spons-img" href="https://teachla.uclaacm.com" target="_blank"><img src={require("../img/acm-teachla-updated.png")} alt="teach LA logo" width="90px"/></a>
                     <a class="spons-img" href="https://w.uclaacm.com" target="_blank"><img src={require("../img/acm-w-updated.png")} alt="acm-w logo" width="90px"/></a>
                     <a class="spons-img" href="https://www.instagram.com/queersinstem/" target="_blank"><img src={require("../img/qtstem.png")} alt="acm-w logo" width="90px"/></a>

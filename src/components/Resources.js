@@ -4,6 +4,7 @@ function Resources(props) {
 
   return (
     <div>
+      <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px"/> 
       <h1>RESOURCES</h1>
       {/* mlh code of conduct */}
       <div class="qanda">
