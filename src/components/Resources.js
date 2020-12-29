@@ -16,6 +16,20 @@ function Resources(props) {
         </div>
       </div>
 
+      {/* how to safely attend qwerhacks */}
+      <div class="qanda">
+        <div class="question">
+          <a class="code-of-conduct" href="https://drive.google.com/file/d/15draOrpYUXQrvzcShnqW3ziShfaRQSP-/view?usp=sharing" target="_blank">how to safely attend our hackathon</a>
+        </div>
+        <div class="answer">
+          <a class="code-of-conduct" href="https://drive.google.com/file/d/15draOrpYUXQrvzcShnqW3ziShfaRQSP-/view?usp=sharing" target="_blank">
+            we affirm our commitment to making participation in this hackathon discreet, and we will work with participants every
+            step of the way to ensure their comfort and safety. in the following guide, we’re going to be offering our own tips, 
+            tricks, and advice as to how you can attend this hackathon safely
+          </a>
+        </div>
+      </div>
+
       {/* to survive on this shore */}
       <div class="qanda">
         <div class="question">
