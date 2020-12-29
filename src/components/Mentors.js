@@ -16,7 +16,7 @@ import React from "react";
                     <div class="mentor-text">
                         <div><a href="http://raksha.gay" target="_blank" class="mentor-name">Raksha Muthukumar (she/her/hers)</a></div>
                         <div class="mentor-info">Raksha is a software engineer at Google by day and community organizer by night. she is passionate about building a tech future for the many, not just the few. Raksha organizes with DSA Tech Action, Manhattan Community Board 4, and through freelance writing.
-                        Ask Raskha about <b>Java, Typescript/Javascript, technical communication, webdev, data structures, resume feedback, git(hub)!</b>
+                        Ask Raksha about <b>Java, Typescript/Javascript, technical communication, webdev, data structures, resume feedback, git(hub)!</b>
                         </div>
                     </div>
                 </div>

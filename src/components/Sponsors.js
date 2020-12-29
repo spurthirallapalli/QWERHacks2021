@@ -13,6 +13,7 @@ import React from "react";
                 <b>#include &lt;spirit tier&gt;</b> 
                 <div class="sponsors">
                     <a class="spons-img" href="https://www.xilinx.com/" target="_blank"> <img src={require("../img/xilinx.png")} alt="xilinx logo" width="90px"/> </a>
+                    <a class="spons-img" href="http://hackp.ac/mlh-stickermule-hackathons" target="_blank"><img src={require("../img/stickermule2.png")} alt="stickermule logo" width="90px"/></a>
                 </div>
             </div>
             <div class="sponsor-class">
@@ -41,6 +42,7 @@ import React from "react";
                     <a class="spons-img" href="https://teachla.uclaacm.com" target="_blank"><img src={require("../img/acm-teachla-updated.png")} alt="teach LA logo" width="90px"/></a>
                     <a class="spons-img" href="https://w.uclaacm.com" target="_blank"><img src={require("../img/acm-w-updated.png")} alt="acm-w logo" width="90px"/></a>
                     <a class="spons-img" href="https://www.instagram.com/queersinstem/" target="_blank"><img src={require("../img/qtstem.png")} alt="acm-w logo" width="90px"/></a>
+                    <a class="spons-img" href="http://bruinentrepreneurs.org/" target="_blank"><img src={require("../img/be.png")} alt="be logo" width="90px"/></a>
                 </div>
             </div>
           </div>
