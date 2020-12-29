@@ -21,6 +21,7 @@ import React from "react";
                 <div class="sponsors">
                     <a class="spons-img" href="https://www.att.com" target="_blank"><img src={require("../img/att.png")} alt="att logo" width="90px"/></a>
                     <a class="spons-img" href="https://www.oracle.com/index.html" target="_blank"><img src={require("../img/oracle.png")} alt="oracle logo" width="90px"/></a>
+                    <a class="spons-img" href="https://robinhood.com/us/en/" target="_blank"><img src={require("../img/robinhood2.png")} alt="robinhood logo" width="90px"/></a>
                 </div>
             </div>
             <div class="sponsor-class">
