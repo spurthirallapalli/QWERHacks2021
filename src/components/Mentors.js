@@ -86,7 +86,7 @@ function Mentors(props) {
                         <div class="mentor-info"> Yogendrasingh is a student in Mumbai, India at NMIMS University. 
                         He has mentored at several hackathons
                         and loves seeing people grow and learn in such a short span of time.
-                        ask Yogendra about
+                        ask Yogendrasingh about
                          <b> web development, AI/ML, and debugging!</b></div>
                     </div>
                 </div>
