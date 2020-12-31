@@ -6,7 +6,7 @@ function Mentors(props) {
         <div>
             <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px" />
             <h1>MENTORS
-            <div class="subtitle">//<a class="edit" href="https://tinyurl.com/qwer-hacks-collab" target="_blank"> interested in mentoring?</a></div>
+            <div class="subtitle">//<a class="edit" href="https://tinyurl.com/qwer-hacks-collab" target="blank"> interested in mentoring?</a></div>
             </h1>
             <div class="mentors">
                 <div class="people">
@@ -15,9 +15,8 @@ function Mentors(props) {
                     </div>
                     <div class="mentor-text">
                         <div><a href="http://raksha.gay" target="blank" class="mentor-name">Raksha Muthukumar (she/her/hers)</a></div>
-                        <div class="mentor-info">Raksha is a software engineer at Google by day and community organizer by night. she is passionate about building a tech future for the many,
-                        not just the few. Raksha organizes with DSA Tech Action, Manhattan Community Board 4, and through freelance writing.
-                        Ask Raskha about <b>Java, Typescript/Javascript, technical communication, webdev, data structures, resume feedback, git(hub)!</b>
+                        <div class="mentor-info">Raksha is a software engineer at Google by day and community organizer by night. she is passionate about building a tech future for the many, not just the few. Raksha organizes with DSA Tech Action, Manhattan Community Board 4, and through freelance writing.
+                        Ask Raksha about <b>Java, Typescript/Javascript, technical communication, webdev, data structures, resume feedback, git(hub)!</b>
                         </div>
                     </div>
                 </div>
