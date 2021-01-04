@@ -27,7 +27,7 @@ import React from "react";
                 <div class="when"><b>12:00-1:00 PM PST, sat 1/23</b></div>
                 <div class="topic">“team formation &amp; first hackathon tips” and "git workshop" hosted by acm-w</div>
               </li>       
-              <li class="session">
+              {/* <li class="session">
                 <div class="when"><b>1:30-2:00 PM PST, sat 1/23</b></div>
                 <div class="topic">"building ethical technology" hosted by raksha</div>
               </li>    
@@ -70,15 +70,8 @@ import React from "react";
               <li class="session">
                 <div class="when"><b>9:00-9:30 PM PST, sat 1/23</b></div>
                 <div class="topic">MLH Activity</div>
-              </li> 
-              <li class="session">
-                <div class="when"><b>9:00-9:30 PM PST, sat 1/23</b></div>
-                <div class="topic">MLH Activity</div>
-              </li> 
-              <li class="session">
-                <div class="when"><b>10:30 PM -12:00 AM PST, sat 1/23</b></div>
-                <div class="topic">rocky horror picture show</div>
-              </li>     
+              </li>  */}
+                   
             </ul>
             
             {/* <ul>
