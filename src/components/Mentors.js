@@ -16,7 +16,7 @@ function Mentors(props) {
                     <div class="mentor-text">
                         <div><a href="http://raksha.gay" target="blank" class="mentor-name">Raksha Muthukumar (she/her/hers)</a></div>
                         <div class="mentor-info">Raksha is a software engineer at Google by day and community organizer by night. she is passionate about building a tech future for the many, not just the few. Raksha organizes with DSA Tech Action, Manhattan Community Board 4, and through freelance writing.
-                        Ask Raksha about <b>Java, Typescript/Javascript, technical communication, webdev, data structures, resume feedback, git(hub)!</b>
+                        ask Raksha about <b>Java, Typescript/Javascript, technical communication, webdev, data structures, resume feedback, and git(hub)!</b>
                         </div>
                     </div>
                 </div>
@@ -28,9 +28,9 @@ function Mentors(props) {
                         <div><a href="https://www.linkedin.com/in/annegail-moreland" target="blank" class="mentor-name">Moss Moreland (they/them)</a></div>
                         <div class="mentor-info">Moss is a software engineer at Travelers Insurance. they
                         recently graduated as a Cognitive Computer Science Major and are passionate
-                        about solving complex problems for the greater benefit of human-kind.
+                        about solving complex problems for the greater benefit of humankind.
                         they are perpetually working towards learning new skills, finding the best ways to teach others,
-                        and building the future; ethics first. ask Moss about <b> machine learning, NLP, and algorithmic bias!</b>
+                        and building the future, ethics first. ask Moss about <b> machine learning, NLP, and algorithmic bias!</b>
                         </div>
                     </div>
                 </div>
