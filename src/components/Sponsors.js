@@ -44,6 +44,7 @@ import React from "react";
                     <a class="spons-img" href="https://w.uclaacm.com" target="_blank"><img src={require("../img/acm-w-updated.png")} alt="acm-w logo" width="90px"/></a>
                     <a class="spons-img" href="https://www.instagram.com/queersinstem/" target="_blank"><img src={require("../img/qtstem.png")} alt="acm-w logo" width="90px"/></a>
                     <a class="spons-img" href="http://bruinentrepreneurs.org/" target="_blank"><img src={require("../img/be.png")} alt="be logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.uclaacm.com/" target="_blank"><img src={require("../img/acm-impact.png")} alt="be logo" width="90px"/></a>
                 </div>
             </div>
           </div>
