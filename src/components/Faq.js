@@ -14,7 +14,7 @@ import React from "react";
                   who can come?
                 </div>
                 <div class="answer">
-                  anyone who is 18 or older, a member (or ally) of the LGBTQIA community, and enrolled
+                  anyone who is 18 or older, a member (or ally) of the LGBTQIA+ community, and enrolled
                   in a postsecondary academic institution is invited to participate!
                 </div>
             </div>
@@ -36,7 +36,7 @@ import React from "react";
                 </div>
                 <div class="answer">
                   absolutely anything you want –– websites, apps, UI, you name it! 
-                  we encourage you to create a product that positively impacts the LGBTQIA community or 
+                  we encourage you to create a product that positively impacts the LGBTQIA+ community or 
                   any other underrepresented group in tech.
                 </div>
             </div>

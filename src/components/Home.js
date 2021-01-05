@@ -13,7 +13,7 @@ import Navbar from "./Navbar";
                         <b>#include &lt;building a better future&gt;</b>
                     </p>
                     <p>
-                        we're back and ready to hack!! qwer hacks at ucla is major league hacking's first LGBTQIA hackathon and aims to
+                        we're back and ready to hack!! qwer hacks at ucla is major league hacking's first LGBTQIA+ hackathon and aims to
                         increase the visibility of and celebrate the queer and trans community in STEM, as well as engage and
                         bring together queer individuals and allies through empowering tech talks, technical and 
                         community building workshops, and the development of innovative products meant to help 
