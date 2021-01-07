@@ -46,7 +46,17 @@ function Mentors(props) {
                          <b> machine learning, NLP, and artificial intelligence!</b> </div>
                     </div>
                 </div>
-                
+                {/* <div class="people">
+                    <div class="mentor-image">
+                        <img src={require("../img/christine.png")} alt="christine" width="160px" />
+                    </div>
+                    <div class="mentor-text">
+                        <div><a href="https://www.linkedin.com/in/christine-keech-026b81173/" target="blank" class="mentor-name">Christine Keech (she/her/hers)</a></div>
+                        <div class="mentor-info">I am a student living a semi-false life in a conservative area.
+                         I do this to protect myself but I want to change this! I have been working to find others in my community to meet and bond with.
+                         </div>
+                    </div>
+                </div> */}
                 <div class="people">
                     <div class="mentor-image">
                         <img src={require("../img/lynn.jfif")} alt="lynn" width="160px" />
@@ -130,17 +140,7 @@ function Mentors(props) {
                         </div>
                     </div>
                 </div>
-                {/* <div class="people">
-                    <div class="mentor-image">
-                        <img src={require("../img/christine.png")} alt="christine" width="160px" />
-                    </div>
-                    <div class="mentor-text">
-                        <div><a href="https://www.linkedin.com/in/christine-keech-026b81173/" target="blank" class="mentor-name">Christine Keech (she/her/hers)</a></div>
-                        <div class="mentor-info">I am a student living a semi-false life in a conservative area.
-                         I do this to protect myself but I want to change this! I have been working to find others in my community to meet and bond with.
-                         </div>
-                    </div>
-                </div> */}
+        
             </div>
         </div>
     );
