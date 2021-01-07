@@ -46,7 +46,7 @@ function Mentors(props) {
                          <b> machine learning, NLP, and artificial intelligence!</b> </div>
                     </div>
                 </div>
-                <div class="people">
+                {/* <div class="people">
                     <div class="mentor-image">
                         <img src={require("../img/christine.png")} alt="christine" width="160px" />
                     </div>
@@ -56,7 +56,7 @@ function Mentors(props) {
                          I do this to protect myself but I want to change this! I have been working to find others in my community to meet and bond with.
                          </div>
                     </div>
-                </div>
+                </div> */}
                 <div class="people">
                     <div class="mentor-image">
                         <img src={require("../img/lynn.jfif")} alt="lynn" width="160px" />
