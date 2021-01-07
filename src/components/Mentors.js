@@ -115,18 +115,6 @@ function Mentors(props) {
                 </div>
                 <div class="people">
                     <div class="mentor-image">
-                        <img src={require("../img/matt.png")} alt="facebook logo" width="160px"/>
-                    </div>
-                    <div class="mentor-text">
-                        <div><a href="https://matthewwang.me" target="blank" class="mentor-name">Matt Wang (he/him/his)</a></div>
-                        <div class="mentor-info">Matt is a third-year CS + Math-Econ student at UCLA who's passionate about using computers to make the world a fairer place. 
-                        He spends most of his time at ACM Teach LA, trying to make computer science education more accessible!
-                        ask Matt about <b> HTML/CSS/JS, MV frameworks (React, Angular, etc), general frontend/backend design, and deploying an application + server admin</b>
-                        </div>
-                    </div>
-                </div>
-                <div class="people">
-                    <div class="mentor-image">
                         <img src={require("../img/ariel_z.png")} alt="facebook logo" width="160px"/>
                     </div>
                     <div class="mentor-text">
