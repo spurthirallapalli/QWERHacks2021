@@ -4,7 +4,7 @@ function Resources(props) {
 
   return (
     <div>
-      <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px"/> 
+      <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px" />
       <h1>RESOURCES</h1>
       {/* mlh code of conduct */}
       <div class="qanda">
@@ -24,8 +24,20 @@ function Resources(props) {
         <div class="answer">
           <a class="code-of-conduct" href="https://drive.google.com/file/d/15draOrpYUXQrvzcShnqW3ziShfaRQSP-/view?usp=sharing" target="_blank">
             we affirm our commitment to making participation in this hackathon discreet, and we will work with participants every
-            step of the way to ensure their comfort and safety. in the following guide, we’re going to be offering our own tips, 
+            step of the way to ensure their comfort and safety. in the following guide, we’re going to be offering our own tips,
             tricks, and advice as to how you can attend this hackathon safely
+          </a>
+        </div>
+      </div>
+
+      {/* how to attend a virtual hackathon */}
+      <div class="qanda">
+        <div class="question">
+          <a class="code-of-conduct" href="https://drive.google.com/file/d/1QV9o3asHa10RkXd8lsvC3fkjKIG7kq-z/view?usp=sharing" target="_blank">how to attend a virtual hackathon</a>
+        </div>
+        <div class="answer">
+          <a class="code-of-conduct" href="https://drive.google.com/file/d/1QV9o3asHa10RkXd8lsvC3fkjKIG7kq-z/view?usp=sharing" target="_blank">
+            Are you scared of attending your first hackathon? Are you a hackathon veteran who’s never attended a virtual one before? Then this guide is for you!
           </a>
         </div>
       </div>

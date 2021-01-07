@@ -46,17 +46,7 @@ function Mentors(props) {
                          <b> machine learning, NLP, and artificial intelligence!</b> </div>
                     </div>
                 </div>
-                <div class="people">
-                    <div class="mentor-image">
-                        <img src={require("../img/christine.png")} alt="christine" width="160px" />
-                    </div>
-                    <div class="mentor-text">
-                        <div><a href="https://www.linkedin.com/in/christine-keech-026b81173/" target="blank" class="mentor-name">Christine Keech (she/her/hers)</a></div>
-                        <div class="mentor-info">I am a student living a semi-false life in a conservative area.
-                         I do this to protect myself but I want to change this! I have been working to find others in my community to meet and bond with.
-                         </div>
-                    </div>
-                </div>
+                
                 <div class="people">
                     <div class="mentor-image">
                         <img src={require("../img/lynn.jfif")} alt="lynn" width="160px" />
@@ -113,6 +103,44 @@ function Mentors(props) {
                         </div>
                     </div>
                 </div>
+                <div class="people">
+                    <div class="mentor-image">
+                        <img src={require("../img/matt.png")} alt="facebook logo" width="160px"/>
+                    </div>
+                    <div class="mentor-text">
+                        <div><a href="https://matthewwang.me" target="blank" class="mentor-name">Matt Wang (he/him/his)</a></div>
+                        <div class="mentor-info">Matt is a third-year CS + Math-Econ student at UCLA who's passionate about using computers to make the world a fairer place. 
+                        He spends most of his time at ACM Teach LA, trying to make computer science education more accessible!
+                        ask Matt about <b> HTML/CSS/JS, MV frameworks (React, Angular, etc), general frontend/backend design, and deploying an application + server admin</b>
+                        </div>
+                    </div>
+                </div>
+                <div class="people">
+                    <div class="mentor-image">
+                        <img src={require("../img/ariel_z.png")} alt="facebook logo" width="160px"/>
+                    </div>
+                    <div class="mentor-text">
+                        <div><a href="https://www.arielzucker.com" target="blank" class="mentor-name">Ariel Zucker (she/her/hers)</a></div>
+                        <div class="mentor-info">Ariel Zucker is the founder and co-CEO of CNT Productions, where she directs and produces socially charged content with a bite. 
+                        She is also the Director of Digital Live Production at YEA! 
+                        Impact where she coordinates virtual live events. 
+                        Her work has been recognized by Outfest and NBC Out, amongst others, and her virtual events have
+                         included collaborations with Netflix, Disney+, Hovercast, and more. Ask Ariel about  
+                         <b> creative collaboration, impact producing, virtual live broadcasting.</b>
+                        </div>
+                    </div>
+                </div>
+                {/* <div class="people">
+                    <div class="mentor-image">
+                        <img src={require("../img/christine.png")} alt="christine" width="160px" />
+                    </div>
+                    <div class="mentor-text">
+                        <div><a href="https://www.linkedin.com/in/christine-keech-026b81173/" target="blank" class="mentor-name">Christine Keech (she/her/hers)</a></div>
+                        <div class="mentor-info">I am a student living a semi-false life in a conservative area.
+                         I do this to protect myself but I want to change this! I have been working to find others in my community to meet and bond with.
+                         </div>
+                    </div>
+                </div> */}
             </div>
         </div>
     );
