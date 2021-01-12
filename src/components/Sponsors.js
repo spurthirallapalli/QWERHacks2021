@@ -13,14 +13,12 @@ import React from "react";
                 <b>#include &lt;spirit tier&gt;</b> 
                 <div class="sponsors">
                     <a class="spons-img" href="https://www.xilinx.com/" target="_blank"> <img src={require("../img/xilinx.png")} alt="xilinx logo" width="90px"/> </a>
-                    <a class="spons-img" href="http://hackp.ac/mlh-stickermule-hackathons" target="_blank"><img src={require("../img/stickermule2.png")} alt="stickermule logo" width="90px"/></a>
                 </div>
             </div>
             <div class="sponsor-class">
                 <b>#include &lt;harmony tier&gt;</b>
                 <div class="sponsors">
                     <a class="spons-img" href="https://www.att.com" target="_blank"><img src={require("../img/att.png")} alt="att logo" width="90px"/></a>
-                    <a class="spons-img" href="https://www.oracle.com/index.html" target="_blank"><img src={require("../img/oracle.png")} alt="oracle logo" width="90px"/></a>
                     <a class="spons-img" href="https://robinhood.com/us/en/" target="_blank"><img src={require("../img/robinhood2.png")} alt="robinhood logo" width="90px"/></a>
                 </div>
             </div>
@@ -34,6 +32,7 @@ import React from "react";
                     <a class="spons-img" href="https://aerospace.org/" target="_blank"><img src={require("../img/aerospace.png")} alt="aerospace logo" width="90px"/></a>
                     <a class="spons-img" href="https://www.chevron.com/" target="_blank"><img src={require("../img/chevron.png")} alt="chervon logo" width="90px"/></a>
                     <a class="spons-img" href="https://www.marathonpetroleum.com/" target="_blank"><img src={require("../img/marathon.png")} alt="marathon logo" width="90px"/></a>
+                    <a class="spons-img" href="http://hackp.ac/mlh-stickermule-hackathons" target="_blank"><img src={require("../img/stickermule2.png")} alt="stickermule logo" width="90px"/></a>
                 </div>
             </div>
             <h1>PARTNERS</h1>
