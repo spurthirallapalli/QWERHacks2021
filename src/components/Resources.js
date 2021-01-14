@@ -43,17 +43,6 @@ function Resources(props) {
       </div>
 
       {/* judging criteria */}
-      <div class="qanda">
-        <div class="question">
-          <a class="code-of-conduct" href="https://drive.google.com/file/d/1964BBUEpydyG3GlWKVdb8vkqAGwZeM_I/view?usp=sharing" target="_blank">judging criteria</a>
-        </div>
-        <div class="answer">
-          <a class="code-of-conduct" href="https://drive.google.com/file/d/1964BBUEpydyG3GlWKVdb8vkqAGwZeM_I/view?usp=sharing" target="_blank">
-            we're releasing our judging guidelines early, so we can clear up any confusion about demo-ing and judging in a virtual setting! in this guide, 
-            you can see exactly what we emphasize when judges are looking at your hack (hint...we want y'all to learn and have fun), as well as how you can submit your hack!
-          </a>
-        </div>
-      </div>
 
       {/* to survive on this shore */}
       <div class="qanda">
