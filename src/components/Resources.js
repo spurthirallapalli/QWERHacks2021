@@ -92,6 +92,20 @@ function Resources(props) {
         </div>
       </div>
 
+      {/* queer vocab in asl */}
+      <div class="qanda">
+        <div class="question">
+          <a class="code-of-conduct" href="https://www.youtube.com/watch?v=8HX0HGa-pok" target="blank">them | queer vocab in asl</a>
+        </div>
+        <div class="answer">
+          <a class="code-of-conduct" href="https://www.youtube.com/watch?v=8HX0HGa-pok" target="blank">
+            in this video, nyle dimarco and chella man walk through the essentials of queer vocabulary in american sign language and the variety of ways to communicate!
+          </a>
+        </div>
+      </div>
+
+
+
     </div>
 
 
