@@ -44,7 +44,7 @@ import React from "react";
 
               <li class="session">
                 <div class="when"><b>2:00-2:30 PM PST, sat 1/23</b></div>
-                <div class="topic">"staying true to your values" hosted by arlyn de los santos</div>
+                <div class="topic">"hacking the system" hosted by arlyn de los santos</div>
               </li>   
 
 
