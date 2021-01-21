@@ -42,7 +42,10 @@ import React from "react";
               </li>    
 
 
-              {/* Arlyn's workshop here */}
+              <li class="session">
+                <div class="when"><b>2:00-2:30 PM PST, sat 1/23</b></div>
+                <div class="topic">"staying true to your values" hosted by arlyn de los santos</div>
+              </li>   
 
 
               <li class="session">
@@ -110,7 +113,13 @@ import React from "react";
               <li class="session">
                 <div class="when"><b>8:30-9:00 PM PST, sat 1/23</b></div>
                 <div class="topic">"how to write a personal statement" hosted by qtstem</div>
-              </li>               
+              </li>  
+
+              <li class="session">
+                <div class="when"><b>9:00-9:30 PM PST, sat 1/23</b></div>
+                <div class="topic">"bob ross MS paint night" hosted by mlh</div>
+              </li> 
+
             </ul>
             
             <ul>
