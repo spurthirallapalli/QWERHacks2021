@@ -45,6 +45,7 @@ import React from "react";
                     <a class="spons-img" href="http://bruinentrepreneurs.org/" target="_blank"><img src={require("../img/be.png")} alt="be logo" width="90px"/></a>
                     <a class="spons-img" href="https://www.uclaacm.com/" target="_blank"><img src={require("../img/acm-impact.png")} alt="be logo" width="100px"/></a>
                     <a class="spons-img" href="https://uclaacmai.github.io/" target="_blank"><img src={require("../img/acm-ai.png")} alt="be logo" width="90px"/></a>
+                    <a class="spons-img" href="https://www.uclaallbrains.org/" target="_blank"><img src={require("../img/allbrains.png")} alt="all brains logo" width="90px"/></a>
                 </div>
             </div>
           </div>
