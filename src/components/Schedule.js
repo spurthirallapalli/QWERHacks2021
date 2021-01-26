@@ -5,7 +5,7 @@ import React from "react";
         return (
           <div class="schedule">
             <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px"/> 
-            <h1><div>SCHEDULE</div> <div class="subtitle">// tentative</div></h1>
+            <h1><div>SCHEDULE</div> <div class="subtitle"></div></h1>
             <ul>
               <li class="session">
                 <div class="when"><b>10:00-11:00 AM PST, sat 1/23</b></div>

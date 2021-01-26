@@ -6,6 +6,18 @@ function Resources(props) {
     <div>
       <img src={require("../img/mlh-trust-badge-2021-white.png")} alt="mlh badge" class="mlh" width="120px" />
       <h1>RESOURCES</h1>
+
+      
+      <div class="qanda">
+        <div class="question">
+          <a class="code-of-conduct" href="https://qwer-hacks-2021.devpost.com/project-gallery" target="_blank">project gallery!!!!</a>
+        </div>
+        <div class="answer">
+          <a class="code-of-conduct" href="https://qwer-hacks-2021.devpost.com/project-gallery" target="_blank">check out all of your project submissions (and winners!!!) from qwer hacks 2021</a>
+        </div>
+      </div>
+
+
       {/* mlh code of conduct */}
       <div class="qanda">
         <div class="question">
